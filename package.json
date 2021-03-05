@@ -30,5 +30,6 @@
     "grunt": "~0.4.4",
     "grunt-hoodie": "~0.3.0",
     "grunt-contrib-connect": "git://github.com/gruntjs/grunt-contrib-connect.git#8de3db229279796c38316ea02ef391bd99c7ef9d"
-  }
+  },
+  "repository": "github:gr2m/hoodie-grunt-app"
 }
